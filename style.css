@@ -59,6 +59,7 @@ main {
 main > p {
     text-align:justify;
     margin:10px;
+    padding-top:20px;
 }
 #front-page-article{
    display:block;
